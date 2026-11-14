@@ -1,0 +1,16 @@
+{
+  "name": "kaizen",
+  "owner": {
+    "name": "ezhou89",
+    "url": "https://github.com/ezhou89"
+  },
+  "description": "Kaizen: four continuous-improvement skills for software and agent workflows.",
+  "plugins": [
+    {
+      "name": "kaizen",
+      "source": "./plugins/kaizen",
+      "description": "TPS-inspired continuous improvement for outcomes, software and workflows.",
+      "category": "productivity"
+    }
+  ]
+}
