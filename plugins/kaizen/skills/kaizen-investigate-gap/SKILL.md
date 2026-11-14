@@ -4,7 +4,7 @@ description: Use when an observed failure, drift, bottleneck, or confusing resul
 ---
 # Investigate the gap
 
-State the observed failure, who it affects, and the evidence. Trace the relevant path across implementation, configuration, instructions, and handoffs. Distinguish symptoms, supported causes, competing hypotheses, and unknowns. Seek the smallest safe check that can discriminate between plausible causes; do not manufacture a neat root cause from an unverified chain of why questions.
+State the observed failure, who it affects, and the evidence. Trace the relevant path across implementation, configuration, instructions (agent instruction files, skills, hooks), and handoffs. Distinguish symptoms, supported causes, competing hypotheses, and unknowns. Seek the smallest safe check that can discriminate between plausible causes, such as a targeted test, log line, or reproduction, and run it rather than reasoning past it; do not manufacture a neat root cause from an unverified chain of why questions.
 
 Compare proportionate options: remove, simplify, repair, replace, clarify, gather evidence, or leave unchanged. Consider downstream effects, lost safeguards, dependencies, reversibility, and authorization. A plausible diagnosis is not permission to edit or deploy. Escalate when a consequential conflict or required approval remains unresolved.
 

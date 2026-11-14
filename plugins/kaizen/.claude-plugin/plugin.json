@@ -1,0 +1,13 @@
+{
+  "name": "kaizen",
+  "version": "0.2.0",
+  "description": "TPS-inspired continuous improvement for outcomes, software and workflows: establish value, observe the flow, investigate gaps, improve and verify.",
+  "author": {
+    "name": "ezhou89",
+    "url": "https://github.com/ezhou89"
+  },
+  "homepage": "https://github.com/ezhou89/kaizen",
+  "repository": "https://github.com/ezhou89/kaizen",
+  "license": "MIT",
+  "keywords": ["kaizen", "continuous-improvement", "ux", "workflow", "audit", "verification"]
+}
