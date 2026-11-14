@@ -6,7 +6,7 @@ Kaizen is a lightweight, experimental plugin with four skills for improving soft
 
 It is inspired by continuous-improvement ideas from the Toyota Production System. It is not affiliated with or endorsed by Toyota, and it is not a complete implementation of TPS.
 
-## Four skills, not a mandatory ceremony
+## Four skills
 
 | Skill | Use it when |
 | --- | --- |
