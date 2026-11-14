@@ -2,9 +2,7 @@
 
 **Passing tests is not the same as delivering useful software.**
 
-Kaizen is a lightweight, experimental plugin with four skills for improving software and agent workflows. It asks what the user is trying to accomplish, where the real flow falls short, what causes the gap, and whether a proportionate change actually helps.
-
-It is inspired by continuous-improvement ideas from the Toyota Production System. It is not affiliated with or endorsed by Toyota, and it is not a complete implementation of TPS.
+Kaizen is a lightweight, experimental plugin inspired by continuous-improvement ideas from the Toyota Production System for improving software and agent workflows. It asks what the user is trying to accomplish, where the real flow falls short, what causes the gap, and whether a proportionate change actually helps.
 
 ## Four skills
 
